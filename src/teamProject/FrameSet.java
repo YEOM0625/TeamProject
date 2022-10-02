@@ -18,7 +18,7 @@ public class FrameSet {
 				System.exit(0);
 			}
 		});
-	}
+	}//셋바운드
 	public void FrameSetBounds(Frame f) {
 		f.setBounds(400, 80, 450, 600);
 		f.setLayout(null);
